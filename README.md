@@ -11,7 +11,6 @@ Taking into account AWS well architected framework, I designed a framework that 
 
 This solution provides a better approach, one that eliminates human error and speeds up the deployment process.
 
-
- ## <a name="Proof of concept">🚀 Proof of Concept</a> 
+ 
 
 
